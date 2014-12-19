@@ -1,3 +1,4 @@
+
 	DATA DICTIONARY - Wearablestats File
 
 -------------------------------------------------------
@@ -32,13 +33,17 @@ subject
 
 activity
      Data Type: Character
-     Values: LAYING
-, SITTING
-, STANDING
-, WALKING
-, WALKING_DOWNSTAIRS
-, WALKING_UPSTAIRS
-.  
+     Values: 
+		LAYING
+		SITTING
+
+		STANDING
+
+		WALKING
+		WALKING_DOWNSTAIRS
+
+		WALKING_UPSTAIRS
+
      Description: An activity is the behavior of the subject at the time a measurement was taken.
 
 tBodyAcc-std()-X

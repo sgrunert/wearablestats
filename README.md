@@ -1,4 +1,4 @@
-Wearable Stats File Processing Description
+Wearable Stats File Processing
 =================================================================
 Author: S.Grunert  
 Create: 14December2014  

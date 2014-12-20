@@ -22,9 +22,15 @@ X = One of 3 axial signals.
 Y = One of 3 axial signals.  
 Z = One of 3 axial signals.  
 
+Variable Units
+-----------------------------------------------------------------
+Unless otherwise stated below, variable units are as follows:  
+Gravity Variables = Standard gravity units 'g'.  
+Acc Variables = Standard gravity units 'g'.  
+Gyro Variables = The units are radians/second.  
+
 Variable Definition
 -----------------------------------------------------------------
-
 subject  
 *  Data Type: Integer  
 *  Values: 1 to 30.  

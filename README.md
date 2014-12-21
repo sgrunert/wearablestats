@@ -32,7 +32,7 @@ The sequence of data processing is as follows:
 
 1) Initialize data directory.
 
-2) Download zip file from the sudy website and unzip study raw data into the data directory.
+2) Download zip file from the study website and unzip study raw data into the data directory.
 
 3) Read in applicable study files and prepare subject-activity row identifiers.
 
